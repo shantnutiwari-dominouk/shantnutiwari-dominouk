@@ -2,9 +2,25 @@
 
 
 Links:
+
+**DA**
 DA e2e tests: https://github.com/domino-printing-sciences/DA-development/actions/workflows/da-e2e-tests.yml
 
 DA releases: https://github.com/domino-printing-sciences/DA-development/releases
+
+
+**E2E repo**
+
+https://github.com/domino-printing-sciences/DA-e2e-tests
+
+https://github.com/domino-printing-sciences/DA-e2e-tests/actions/workflows/run_e2e.yml
+
+**Servitly REpo**
+https://github.com/domino-printing-sciences/DC-ServitlyTesting
+
+https://github.com/domino-printing-sciences/DC-ServitlyTesting/actions/workflows/main.yml
+
+
 
 domino-printing-sciences/DA-e2e-tests/
 <!--
