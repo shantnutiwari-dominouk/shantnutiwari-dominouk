@@ -15,7 +15,8 @@ https://github.com/domino-printing-sciences/DA-e2e-tests
 
 https://github.com/domino-printing-sciences/DA-e2e-tests/actions/workflows/run_e2e.yml
 
-**Servitly REpo**
+**Servitly Repo**
+
 https://github.com/domino-printing-sciences/DC-ServitlyTesting
 
 https://github.com/domino-printing-sciences/DC-ServitlyTesting/actions/workflows/main.yml
