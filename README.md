@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+
+Links:
+DA e2e tests: https://github.com/domino-printing-sciences/DA-development/actions/workflows/da-e2e-tests.yml
+
+DA releases: https://github.com/domino-printing-sciences/DA-development/releases
+
+domino-printing-sciences/DA-e2e-tests/
 <!--
 **shantnutiwari-dominouk/shantnutiwari-dominouk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
