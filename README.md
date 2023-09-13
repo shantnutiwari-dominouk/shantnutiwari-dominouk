@@ -1,7 +1,5 @@
-### Hi there 👋
+### Links:
 
-
-Links:
 
 **DA**
 DA e2e tests: https://github.com/domino-printing-sciences/DA-development/actions/workflows/da-e2e-tests.yml
